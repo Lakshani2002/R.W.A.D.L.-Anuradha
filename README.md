@@ -9,6 +9,37 @@
 
 - 🌱 I’m currently learning **java,c++**
 
+- ***
+- ## 🎓 Academic Background
+
+- 🎓 **BSc (Hons) in Information Systems** — University of Sabaragamuwa, Sri Lanka  
+- 🎓 **HND in Business Management** — Esoft Metro Campus (Pearson College, London)  
+- 💻 **Diploma in Information Technology** — Esoft Metro Campus  
+- 🧮 **GCE A/L** — Mathematics Stream  
+- 🏆 **GCE O/L** — 9 A Passes
+
+- ***
+- ## 💼 Professional Experience
+
+- 📊 **Marketing Leader** — Bright Achievers Group of Company, Nittambuwa  
+- ⌨️ **Data Entry Operator** — Osaka Higher Education Centre, Gampaha
+
+- ***
+- ## 🚀 Projects Involved
+
+- 🌐 **Website Development** — Bright Achievers Group of Company  
+- 🎓 **Private College Project** — Launching a higher education campus in Sri Lanka  
+- 🌸 **Website Project** — Rasan Flower Nursery
+
+- ***
+- ## 🎯 Career Interests & Goals
+
+- 👨‍💼 Aspire to begin career as a **Project Manager**, integrating business strategy with technology.  
+- 🚀 Long-term goal: **Establish my own business** and contribute to Sri Lanka’s development through **innovation & entrepreneurship**.  
+- 🎓 Passionate about **academia**, with the ambition to become a **lecturer** in Information Systems and Business Management.
+
+- ***
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anuradha-rajapaksha-209210312/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anuradha-rajapaksha-209210312/" height="30" width="40" /></a>
